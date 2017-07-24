@@ -1,5 +1,5 @@
 {
-  "name": "nebula-stylelint-config",
+  "name": "stylelint-config-nebula",
   "version": "0.1.0",
   "description": "Stylelint Config for Nebula CSS",
   "main": "index.js",
