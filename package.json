@@ -1,0 +1,27 @@
+{
+  "name": "nebula-stylelint-config",
+  "version": "0.1.0",
+  "description": "Stylelint Config for Nebula CSS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbrtsmith/nebula-stylelint-config.git"
+  },
+  "keywords": [
+    "Nebula-CSS"
+  ],
+  "author": "Robert Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbrtsmith/nebula-stylelint-config/issues"
+  },
+  "homepage": "https://github.com/rbrtsmith/nebula-stylelint-config#readme",
+  "dependencies": {
+    "stylelint-config-sass-guidelines": "^3.0.1",
+    "stylelint-scss": "^1.5.1",
+    "stylelint-selector-bem-pattern": "^1.1.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^8.0.0"
+  }
+}
