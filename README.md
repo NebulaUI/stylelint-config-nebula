@@ -9,7 +9,7 @@ Extends the Sass-Guidelines config.
 2. A stylelint config for Nebula CSS.  Use in your `.stylelintrc`
 ```
 {
-  "extends": "stylelint-config-nebula",
+  "extends": "stylelint-config-nebula"
 }
 ```
 
