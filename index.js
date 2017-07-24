@@ -8,6 +8,7 @@ module.exports = {
   ],
   rules: {
     'selector-class-pattern': "",
+    'max-nesting-depth': 3,
     'order/properties-alphabetical-order': null,
     'selector-no-qualifying-type': [true, {
       ignore: ["attribute"],
