@@ -4,7 +4,7 @@ Extends the Sass-Guidelines config.
 
 ## Get Started
 
-1. `npm install -D styelint-config-nebula`
+1. `npm install -D stylelint-config-nebula`
 
 2. A stylelint config for Nebula CSS.  Use in your `.stylelintrc`
 ```
